@@ -8,15 +8,19 @@
     "sections": [
         {
             "title": "Features",
-            "grep": "^feature"
+            "grep": "feature"
         },
         {
             "title": "Hotfix",
-            "grep": "^hotfix"
+            "grep": "hotfix"
         },
         {
             "title": "Release",
-            "grep": "^release"
+            "grep": "release"
+        },
+        {
+            "title": "Modify",
+            "grep": ".*feature/"
         }
     ]
 }
